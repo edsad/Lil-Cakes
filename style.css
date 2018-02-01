@@ -5,8 +5,16 @@ body {
 h1, h2, h3, h4, h5 {
 	text-align: center;
 	color: pink;
+	text-shadow: 2px 2px black;
 }
 
 a {
 	color: white;
+}
+
+div#standout {
+	color: white;
+	font-size: 4em;
+	text-align: center;
+	text-shadow: 4px 2px black;
 }
